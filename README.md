@@ -1,4 +1,4 @@
-### Hi there Douglas Ribeiro👋
+### Hi there, I am Douglas Ribeiro👋
 
 Welcome to my GitHub profile!
 
@@ -12,7 +12,7 @@ Welcome to my GitHub profile!
 
 :muscle: Calisthenics practitioner
 
-:guitar: estudante de musica "cavaquinho"
+:guitar: "cavaquinho" music student
 
 ### Tools and Technologies
 
