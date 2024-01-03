@@ -4,8 +4,8 @@ Welcome to my GitHub profile!
 
 ## About me:
 
-- I'm currently a **devops analyst** at [Duosystem](https://www.duosystem.com.br)
-- I'm training in **information security** in [Uninove](https://www.uninove.br/)
+- I'm currently a **devops analyst** and **SysAdmin** at [Duosystem](https://www.duosystem.com.br) 
+- I'm training in **information security** in [Uninove](https://www.uninove.br/) 🎓 💻
 - I am currently studying even more Devops and DevsecOps processes to improve skills 👨🏻‍💻
 
 #### Hobbies and Interests
