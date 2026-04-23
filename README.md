@@ -1,62 +1,43 @@
-### Hi there, I am Douglas Ribeiro👋
+### Hi there, I am Douglas Ribeiro 👋
 
 Welcome to my GitHub profile!
 
-## About me:
+---
 
-- I'm currently a **devops analyst** and **SysAdmin** at [Duosystem](https://www.duosystem.com.br) 
-- I'm training in **information security** in [Uninove](https://www.uninove.br/) 🎓 💻
-- I am currently studying even more Devops and DevsecOps processes to improve skills 👨🏻‍💻
+## 🚀 About me
 
-#### Hobbies and Interests
+- 💼 DevOps Analyst & SysAdmin at [Duosystem](https://www.duosystem.com.br)
+- 🎓 Studying Information Security at [Uninove](https://www.uninove.br/)
+- 🔐 Focused on DevOps & DevSecOps practices
 
-:muscle: Calisthenics practitioner
 
-:guitar: "cavaquinho" music student
+## 🧠 Hobbies and Interests
 
-### Tools and Technologies
+- 💪 Calisthenics practitioner  
+- 🎸 Cavaquinho student  
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="MReis-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="MReis-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="MReis-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="MReis-Ansible" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg">
-  <img align="center" alt="MReis-Terraform" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg">
-  <img align="center" alt="MReis-Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
-  <img align="center" alt="MReis-Zabbix" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Zabbix_logo.svg">
-  <img align="center" alt="MReis-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  <img align="center" alt="MReis-GitLab" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
-  <img align="center" alt="MReis-GitLab" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
-  <img align="center" alt="MReis-Vagrant" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vagrant/vagrant-original.svg">
-  <img align="center" alt="MReis-Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
-  <img align="center" alt="MReis-Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
-  <img align="center" alt="MReis-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="MReis-Vim" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg">
-  <img align="center" alt="MReis-Markdown" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg">
 
-</div>
+## 🛠️ Tools and Technologies
 
-### How to reach me
+[![My Skills](https://skillicons.dev/icons?i=linux,git,docker,ansible,terraform,azure,kubernetes,bash,go,python,vim,github,gitlab)](https://skillicons.dev)
 
-<div> 
-  <a href="https://www.linkedin.com/in/douglastos" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-  <a href="https://gitlab.com/douglastos" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=color"></a> 
-  <a href="https://www.instagram.com/douglastos" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://t.me/douglastos" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
-  
-</div>
+---
 
-<!--
-**douglastos/douglastos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 GitHub Stats
 
-Here are some ideas to get you started:
+![Douglas GitHub stats](https://github-readme-stats.vercel.app/api?username=douglastos&show_icons=true&theme=dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douglastos&layout=compact&theme=dark)
+
+---
+
+## 📫 How to reach me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglastos)
+[![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/douglastos)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/douglastos)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/douglastos)
+
+---
+
+✨ _Always learning and improving._
