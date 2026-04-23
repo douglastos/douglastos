@@ -19,7 +19,7 @@ Welcome to my GitHub profile!
 
 ## 🛠️ Tools and Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=linux,git,docker,ansible,terraform,azure,kubernetes,bash,go,python,vim,github,gitlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,debian,redhat,kali,bash,regex,git,github,githubactions,gitlab,py,nodejs,go,ruby,ansible,terraform,kubernetes,nginx,npm,docker,azure,rocket,redis,postman)](https://skillicons.dev)
 
 ---
 
